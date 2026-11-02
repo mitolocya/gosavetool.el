@@ -3,6 +3,7 @@
 ;; Copyright (C) 2026 GoSaveTool
 
 ;; Author: GoSaveTool <https://www.gosavetool.com/>
+;; Assisted-by: Codebuff:claude
 ;; Maintainer: GoSaveTool <https://www.gosavetool.com/>
 ;; URL: https://github.com/mitolocya/gosavetool.el
 ;; Version: 1.0.0
